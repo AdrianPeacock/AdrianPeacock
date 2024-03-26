@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian Peacock
 ======================================================================================================================================
 
-Aspiring Data Analyst, trained Legal Support Officer, trainee solicitor with data skills
+Aspiring Data Analyst, trained Legal Support Officer, potential trainee solicitor with exceptional data skills
 ----------------------------------------------------------------------------------------
 
 I am a recent alumni of the prestigious 'JustIT' intensive Data Skills Bootcamp (April 2024). I am adept at: Excel (with VBA); coding in SQL, Python; visualising in Tableau; accessing cloud datasets via MS Azure. I hold distinction level degrees in law and accountancy - I am equally at home with rapid manual data-inputting, as well as manipulating big data, producing visualisations and presentations, and processing cloud-based data. I am fully trained in GDPR and compliance requirements.
